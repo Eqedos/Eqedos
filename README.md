@@ -2,7 +2,7 @@
 
 ## Crafting User Experiences & Simplifying Technology
 
-As a passionate technologist, I'm currently immersed in enhancing the UI/UX of STEVFN as part of my internship project, where I'm bringing innovative designs to life.
+As a passionate technologist, I'm currently immersed in enhancing the UI/UX of STEVFN as part of my internship project, where I'm bringing Energy System Models to life.
 
 ### Always Learning
 - **Currently exploring:** The exciting worlds of Go and TensorFlow, while also diving into the principles of DevOps.
