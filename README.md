@@ -1,4 +1,8 @@
-[![image](https://github.com/user-attachments/assets/b161b45e-5772-4484-83a5-6cde62ad5f5b)](https://www.parthkumar.dev/)
+<p align="center">
+  <a href="https://www.parthkumar.dev/">
+    <img src="https://github.com/user-attachments/assets/b161b45e-5772-4484-83a5-6cde62ad5f5b" alt="image" width="400">
+  </a>
+</p>
 
 # Hi, World! Im Parth 👋
 
