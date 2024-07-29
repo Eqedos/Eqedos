@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://www.parthkumar.dev/">
-    <img src="https://github.com/user-attachments/assets/79812496-9ed8-4488-b7e0-3bc33c78f2e5" alt="Untitled (600 x 264 px)" width="700">
+    <img src="https://github.com/user-attachments/assets/70289461-475e-4987-b126-7b412eb966ed" alt="Untitled (600 x 264 px) (1)" width="700">
   </a>
 </p>
+
+![Untitled (600 x 264 px) (1)](https://github.com/user-attachments/assets/70289461-475e-4987-b126-7b412eb966ed)
 
 
 # Hi, World! I'm Parth 👋
