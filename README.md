@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Hi, World! Im Parth 👋
+# Hi, World! I'm Parth 👋
 
 <div class="github-introduction">
 
