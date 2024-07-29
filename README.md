@@ -1,28 +1,109 @@
-# Hello, World! 👋
+[![image](https://github.com/user-attachments/assets/b161b45e-5772-4484-83a5-6cde62ad5f5b)](https://www.parthkumar.dev/)
 
-## System Overview
+# Hi, World! Im Parth 👋
 
-Welcome to my domain! I'm Parth, a dedicated software developer passionate about enhancing user experiences and simplifying technology.
+<div class="github-introduction">
 
-### System Processes
-- **Current Focus:** Exploring Go, TensorFlow, and DevOps principles.
-- **Development Mode:** Continuous learning in software development, with a focus on AI and system automation.
+I'm a **Software Engineer** who was inspired by flash games online when I was young, which led me to computer science and everything it encompasses. Therefore, I am excited about designing and developing software and applications that are **fast**, **responsive**, and **accessible** to everyone. I love to dig deep into how things work, which is what stems my strong dislike for frontend frameworks..and backend frameworks... and everything I'm good at. 😠
 
-### Open Source Collaboration
-- **Version Control:** Actively contributing to and collaborating on open-source projects.
-- **Community:** Let's innovate and build something amazing together!
+</div>
 
-### Core Competencies
-- **Primary Language:** React
-- **Support Services:** Open to discussing and sharing knowledge on this dynamic library.
+- 💼 Got a job opportunity? In this MARKET? Hit me up via <a href="mailto:parthkumarj117@gmail.com">email.</a> Seriously, I'm ready for anything!
+- 💬 Curious? Got a burning question? Just ask! I don't bite (mostly).
 
-### Contact Information
-- **Email:** [parthkumarj117@gmail.com](mailto:parthkumarj117@gmail.com)
+<div class="badges-intro">
 
-I'm always open to interesting conversations and collaboration opportunities. Let's connect and create something extraordinary!
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=#3776AB)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=#A8B9CC)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=#00599C)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=#007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=#0095D5)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=#0078D6)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=#007ACC)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio&logoColor=#3DDC84)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=#181717)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=#61DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=#61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=#000000)
+![Svelte](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte&logoColor=#FF3E00)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=#000000)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=#339933)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=#000000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=#47A248)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=#4479A1)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=#FFCA28)
+![tRPC](https://img.shields.io/badge/-tRPC-000000?style=flat&logo=trpc&logoColor=#00F)
+![Vite](https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite&logoColor=#646CFF)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind-css&logoColor=#06B6D4)
+![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat&logo=prisma&logoColor=#2D3748)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=#2496ED)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow&logoColor=#FF6F00)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=flat&logo=scikit-learn&logoColor=#F7931E)
+
+And if there's something I don't know, just give me a bit of time and I'll learn it. I promise! 😂
+
+</div>
+
+</div>
+
+## 📈 My GitHub stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=eqedos&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Eqedos's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eqedos&theme=tokyonight&hide_border=true" alt="Eqedos's Streak" height="165">
+  </p>
+</div>
+
+## 📃 My Journey with Documentation
+
+When I first started coding, I absolutely hated documentation and the whole concept of clean code. It felt like an unnecessary chore. But then, I revisited some of my old, unmanageable projects on GitHub and realized the chaos I had created. It was like trying to read hieroglyphics written by a drunken cat. That experience was a wake-up call.
+
+Now, I've taken the time to learn everything I can about clean code and documentation. I've become a documentation "nazi," sticking to every design pattern in the book. Yes, you heard that right! I'm all about writing clear, concise, and useful documentation now. I follow OOP principles religiously, even if I don't always agree with them (but shh, don't tell anyone).
+
+Whenever I write documentation now, I make sure my future self doesn't suffer like I did. Ironically, past me would be rolling his eyes at present me.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### <p align="center">⚙️ My development environment </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eqedos&show_icons=true&locale=en&layout=compact" alt="eqedos" /></p>
+> I grew up with Windows and started my development journey there. The familiarity was comforting, but as I delved deeper into the world of programming, I realized there was a whole other world out there—Linux. The transition was, let's just say, a bit uncomfortable. It felt like moving from a cozy, cluttered room to a minimalist, futuristic space station. But once I got the hang of it, there was no turning back.
+
+> Now, I primarily use Linux Mint. When I occasionally go back to Windows, it feels like wading through molasses—unusable and slow, especially with command-line tasks. But don't get me wrong, I can still navigate both worlds like a pro. I mean, I have to use Windows for Microsoft Teams (ugh) and, of course, to play Valorant. Gotta keep those skills sharp, right?
+
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%">
+  
+  #### 🖥️ Windows Veteran Turned Mint Master
+  
+  ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell&logoColor=#5391FE)
+  ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&logoColor=#0078D4)
+  ![WSL](https://img.shields.io/badge/-WSL-000000?style=flat&logo=windows-subsystem-for-linux&logoColor=#FCC624)
+  
+  </td>
+  <td valign="top" width="50%">
+  
+  #### 🐧 Linux Enthusiast
+  
+  I love working with Linux and I'm always exploring new things in the vast open-source world.
+  
+  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
+  ![Mint](https://img.shields.io/badge/-Mint-000000?style=flat&logo=linux-mint&logoColor=#87CF3E)
+  ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=#A81D33)
+  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)
+  
+  </td>
+  </tr>
+  </table>
+</div>
+
