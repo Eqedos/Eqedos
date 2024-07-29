@@ -85,7 +85,7 @@ Whenever I write documentation now, I make sure my future self doesn't suffer li
   <tr>
   <td valign="top" width="50%">
   
-  #### 🖥️ Windows Veteran Turned Mint Master
+  #### 🖥️ Windows
   
   ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
   ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell&logoColor=#5391FE)
@@ -95,7 +95,7 @@ Whenever I write documentation now, I make sure my future self doesn't suffer li
   </td>
   <td valign="top" width="50%">
   
-  #### 🐧 Linux Enthusiast
+  #### 🐧 Linux
   
   I love working with Linux and I'm always exploring new things in the vast open-source world.
   
