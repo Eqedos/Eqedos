@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://www.parthkumar.dev/">
-    <img src="https://github.com/user-attachments/assets/b161b45e-5772-4484-83a5-6cde62ad5f5b" alt="image" width="700">
+    <img src="https://github.com/user-attachments/assets/b161b45e-5772-4484-83a5-6cde62ad5f5b](https://github.com/user-attachments/assets/b0cfecf9-98e8-44e7-a4cc-82261992dd28" alt="image" width="700">
   </a>
 </p>
+
 
 # Hi, World! I'm Parth 👋
 
