@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.parthkumar.dev/">
-    <img src="https://github.com/user-attachments/assets/70289461-475e-4987-b126-7b412eb966ed" alt="Untitled (600 x 264 px) (1)" width="900">
+    <img src="https://github.com/user-attachments/assets/70289461-475e-4987-b126-7b412eb966ed" alt="Untitled (600 x 264 px) (1)" width="600">
   </a>
 </p>
 
