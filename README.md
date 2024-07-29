@@ -19,11 +19,6 @@ Welcome to my domain! I'm Parth, a dedicated software developer passionate about
 ### Contact Information
 - **Email:** [parthkumarj117@gmail.com](mailto:parthkumarj117@gmail.com)
 
-### System Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
 I'm always open to interesting conversations and collaboration opportunities. Let's connect and create something extraordinary!
 
 
