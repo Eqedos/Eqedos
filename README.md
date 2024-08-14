@@ -75,7 +75,7 @@ And if there's something I don't know, just give me a bit of time and I'll learn
 
 When I first started coding, I absolutely hated documentation and the whole concept of clean code. It felt like an unnecessary chore. But then, I revisited some of my old, unmanageable projects on GitHub and realized the chaos I had created. It was like trying to read hieroglyphics written by a drunken cat. That experience was a wake-up call.
 
-Now, I've taken the time to learn everything I can about clean code and documentation. I've become a documentation "nazi," sticking to every design pattern in the book. Yes, you heard that right! I'm all about writing clear, concise, and useful documentation now. I follow OOP principles religiously, even if I don't always agree with them (but shh, don't tell anyone).
+Now, I've taken the time to learn everything I can about clean code and documentation. I've become a documentation "enthusiast," sticking to every design pattern in the book. Yes, you heard that right! I'm all about writing clear, concise, and useful documentation now. I follow OOP principles religiously, even if I don't always agree with them (but shh, don't tell anyone).
 
 Whenever I write documentation now, I make sure my future self doesn't suffer like I did. Ironically, past me would be rolling his eyes at present me.
 
