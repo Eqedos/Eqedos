@@ -62,15 +62,6 @@ And if there's something I don't know, just give me a bit of time and I'll learn
 
 </div>
 
-## 📈 My GitHub stats
-
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=eqedos&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Eqedos's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eqedos&theme=tokyonight&hide_border=true" alt="Eqedos's Streak" height="165">
-  </p>
-</div>
-
 ## 📃 My Journey with Documentation
 
 When I first started coding, I absolutely hated documentation and the whole concept of clean code. It felt like an unnecessary chore. But then, I revisited some of my old, unmanageable projects on GitHub and realized the chaos I had created. It was like trying to read hieroglyphics written by a drunken cat. That experience was a wake-up call.
