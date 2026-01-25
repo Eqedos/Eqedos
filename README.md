@@ -12,8 +12,6 @@
 
 I'm a **Software Engineer** whose early fascination with online flash games sparked a deep dive into computer science. This background drives my passion for engineering software that is **fast**, **responsive**, and **accessible**. I enjoy understanding how technologies work from the ground up, giving me a strong appreciation for the fundamentals beneath the frameworks.
 
-I am currently seeking new opportunities. Feel free to connect with me via <a href="mailto:parthkumarj117@gmail.com">email</a>.
-
 ---
 
 ### <p align="center">💻 Tech Stack & Tools</p>
